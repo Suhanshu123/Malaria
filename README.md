@@ -8,6 +8,11 @@ $="centerme"] {
   margin: 0 auto;
 }
 
+
+<p align="center">
+  <img src=![mains](https://user-images.githubusercontent.com/25812257/37553491-503177cc-29ef-11e8-9e7e-11e0831b5d73.PNG) width="750px" height="300px"/></p>
+  
+
 ## 1- MainScreen
 
 ![mains](https://user-images.githubusercontent.com/25812257/37553491-503177cc-29ef-11e8-9e7e-11e0831b5d73.PNG)
