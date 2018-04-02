@@ -3,7 +3,8 @@
 This is the static android mobile Application which tells about the CAUSES, SYMPTOMS, DIAGNOSIS, COMPLICATIONS, TREATMENT, OUTLOOK, PREVENTION.
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="![mains](https://user-images.githubusercontent.com/25812257/37553491-503177cc-29ef-11e8-9e7e-11e0831b5d73.PNG)
+">
 </p>
 
 
