@@ -2,12 +2,15 @@
 
 This is the static android mobile Application which tells about the CAUSES, SYMPTOMS, DIAGNOSIS, COMPLICATIONS, TREATMENT, OUTLOOK, PREVENTION.
 
+img[![mains](https://user-images.githubusercontent.com/25812257/37553491-503177cc-29ef-11e8-9e7e-11e0831b5d73.PNG)
+$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
+
 ## 1- MainScreen
 
-<p align="center">
 ![mains](https://user-images.githubusercontent.com/25812257/37553491-503177cc-29ef-11e8-9e7e-11e0831b5d73.PNG)
-</p>
-
 
 ## 2- Symptoms
 
