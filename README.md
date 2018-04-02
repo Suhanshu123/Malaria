@@ -2,16 +2,10 @@
 
 This is the static android mobile Application which tells about the CAUSES, SYMPTOMS, DIAGNOSIS, COMPLICATIONS, TREATMENT, OUTLOOK, PREVENTION.
 
-img[![mains](https://user-images.githubusercontent.com/25812257/37553491-503177cc-29ef-11e8-9e7e-11e0831b5d73.PNG)
-$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
-
-
 <p align="center">
-  <img src=![mains](https://user-images.githubusercontent.com/25812257/37553491-503177cc-29ef-11e8-9e7e-11e0831b5d73.PNG) width="750px" height="300px"/></p>
-  
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
 
 ## 1- MainScreen
 
